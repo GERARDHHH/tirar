@@ -1,0 +1,13 @@
+body {
+  font-family: sans-serif;
+}
+
+.container-div {
+  background-color: azure;
+  padding: 7px;
+  text-align: center;
+}
+
+.button {
+  color: pink;
+}
